@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_mymall">
+
+
+
+    <fragment
+        android:id="@+id/nav_orders"
+        android:name="com.shubhamwithcode.mymall.ui.myOrdersFragment"
+        android:label="My Orders"
+        tools:layout="@layout/fragment_my_orders" />
+
+    <fragment
+        android:id="@+id/nav_Rewards"
+        android:name="com.shubhamwithcode.mymall.ui.myRewardsFragment"
+        android:label="My Rewards"
+        tools:layout="@layout/fragment_my_rewards" />
+
+    <fragment
+        android:id="@+id/nav_Cart"
+        android:name="com.shubhamwithcode.mymall.ui.myCartFragment"
+        android:label="My Cart"
+        tools:layout="@layout/fragment_my_cart" />
+    <fragment
+        android:id="@+id/nav_Account"
+        android:name="com.shubhamwithcode.mymall.ui.accountFragment"
+        android:label="My Account"
+        tools:layout="@layout/fragment_account" />
+    <fragment
+        android:id="@+id/nav_Wishlist"
+        android:name="com.shubhamwithcode.mymall.ui.wishlistFragment"
+        android:label="My Wishlist"
+        tools:layout="@layout/fragment_wishlist" />
+
+    <fragment
+        android:id="@+id/nav_SignOut"
+        android:name="com.shubhamwithcode.mymall.ui.SignOutFragment"
+        android:label="Sign Out"
+        tools:layout="@layout/fragment_sign_out" />
+
+    <fragment
+        android:id="@+id/nav_mymall"
+        android:name="com.shubhamwithcode.mymall.ui.MyMallFragment"
+        android:label="My Mall"
+        tools:layout="@layout/fragment_my_mall" />
+</navigation>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/badge_count.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/bg_et.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/bg_quantity.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/bg_redeem_btn.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/bg_reting_green_text.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/bg_shape.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/border_backgraund.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/btn_shape.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/corner_radiaus.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/defult_dot.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/dot_selector.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/reward_bg_layout.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/selected_dot.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/slider_bg.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/drawable/user_bg.xml" value="0.1765625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_add_addresses.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_category.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_delivery.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_login.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_my_addresses.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_notification.xml" value="0.17447916666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_order_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_otpvarification.xml" value="0.12" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_product_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_register.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_search.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_splash.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_update_user_info.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/activity_view_all.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/addresses_item_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/app_bar_main.xml" value="0.10666666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/badge_layout.xml" value="2.0" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/cart_item_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/cart_total_amount_layout.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/category_item_sample.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/content_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/coupen_redeem_dialogue.xml" value="0.6" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_account.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_forgot__password.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_gallery.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_my_cart.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_my_mall.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_my_orders.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_my_rewards.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_order__detail_.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_product_descriptions.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_product_specifications.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_sign_out.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_signin_.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_signup_.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_update_info.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_update_password.xml" value="0.12" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/fragment_wishlist.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/grid_product_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/horizontal_scroll_item_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/horizontal_scroll_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/loading_progress_dialog.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/mimi_my_reward_item_layout.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/mini_my_reward_item_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/my_addresses_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/my_order_item_layout.xml" value="0.6" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/my_reward_item_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/natification_item.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/nav_header_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/order_cancel_dialog.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/order_detail_layout.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/order_status_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/password_confirmation_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/payment_method.xml" value="0.8333333333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/product_description_layout.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/product_detail_only_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/product_images_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/product_specifications_iteam_layout.xml" value="0.12" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/profile_data_layout.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/quantity_dialog.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/rating_layout.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/reward_with_product_layout_.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/shipping_detail.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/shipping_detail_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/sider_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/sign_in_dialogue.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/sliding_ad_banner.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/strip_ad_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/wishlist_item_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/layout/your_recent_orders_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/menu/activity_main_drawer.xml" value="0.12" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/menu/main.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/menu/search_and_cart_icon.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/menu/shearch_icon.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyMall/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.190625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

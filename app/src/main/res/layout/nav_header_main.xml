@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="165dp"
+    android:layout_marginTop="20dp"
+    android:background="@color/colour_primary"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/main_profile_image"
+        android:layout_width="76dp"
+        android:layout_height="76dp"
+        android:layout_marginTop="5dp"
+        android:contentDescription="Navigation header"
+        android:elevation="3dp"
+        android:src="@drawable/avtar"
+        app:civ_border_color="@color/white"
+        app:civ_border_width="1dp"/>
+
+    <ImageView
+        android:id="@+id/add_profile_icon"
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="-17dp"
+        android:background="@drawable/user_bg"
+        android:elevation="5dp"
+        android:padding="3dp"
+        app:srcCompat="@drawable/address_plus_icon" />
+
+    <TextView
+        android:id="@+id/main_fullname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:text="Not Signed In"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/main_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email Address"
+        android:textColor="#ABFFFFFF" />
+
+
+</LinearLayout>
