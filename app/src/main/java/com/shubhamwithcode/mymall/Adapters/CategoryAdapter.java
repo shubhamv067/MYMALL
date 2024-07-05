@@ -1,5 +1,6 @@
 package com.shubhamwithcode.mymall.Adapters;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -37,7 +38,7 @@ public class CategoryAdapter extends RecyclerView.Adapter<CategoryAdapter.viewHo
     }
 
     @Override
-    public void onBindViewHolder(@NonNull CategoryAdapter.viewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull CategoryAdapter.viewHolder holder, @SuppressLint("RecyclerView") int position) {
     String Icon = categoryModelList.get(position).getCategoryLink();
     String Name = categoryModelList.get(position).getCategoryName();
     holder.setCategory(Name,position);

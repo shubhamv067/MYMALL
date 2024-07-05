@@ -29,6 +29,7 @@ android {
     dependenciesInfo {
         includeInBundle true
     }
+    namespace 'com.shubhamwithcode.mymall'
 }
 
 dependencies {

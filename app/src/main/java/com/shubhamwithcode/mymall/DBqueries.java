@@ -337,7 +337,7 @@ public class DBqueries {
             });
         }
     }
-    public static void loadCartList(Context context, Dialog dialog, boolean loadProductData, final TextView badgeCount,TextView cartTotalAmount){
+    public static void loadCartList(Context context, Dialog dialog, boolean loadProductData, final TextView badgeCount,TextView cartTotalAmount) {
         cartList.clear();
         firebaseFirestore.collection("USERS").document(FirebaseAuth.getInstance().getUid()).collection("USER_DATA").document("MY_CART")
                 .get().addOnCompleteListener(new OnCompleteListener<DocumentSnapshot>() {
